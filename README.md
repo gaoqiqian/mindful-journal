@@ -2,7 +2,17 @@
 
 An English edition of the student interface from Mindful Journal, a journaling and emotional reflection project (software copyright registration 2025SR1806676).
 
-**[Open the English interactive demo](https://mindful-journal-demo.cooper1872.chatgpt.site/)**
+## Live Demo
+
+**[https://mindful-journal-demo.cooper1872.chatgpt.site/](https://mindful-journal-demo.cooper1872.chatgpt.site/)**
+
+## Screenshots
+
+| Home and mood check-in | Mood trends and feelings | A fictional journal entry |
+| --- | --- | --- |
+| [![Mindful Journal home](docs/screenshots/mindful-journal-home.jpg)](docs/screenshots/mindful-journal-home.jpg) | [![Mood line chart and emotion distribution](docs/screenshots/mindful-journal-trends.jpg)](docs/screenshots/mindful-journal-trends.jpg) | [![Fictional sample journal entry](docs/screenshots/mindful-journal-entry.jpg)](docs/screenshots/mindful-journal-entry.jpg) |
+
+*Captured from the English hosted demo on 1 November 2026. All journal text and chart data shown are fictional samples. Click an image for the full-size view.*
 
 ## Try it
 
