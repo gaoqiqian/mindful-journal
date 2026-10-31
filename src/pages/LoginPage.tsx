@@ -1,0 +1,3 @@
+import { useNavigate } from 'react-router-dom'
+import { useAuth } from '../auth/AuthContext'
+export default function LoginPage(){const {login}=useAuth();const navigate=useNavigate();return <div className="auth-page"><section className="panel auth-card"><div className="brand">Mindful Journal<small>YOUR QUIET PLACE</small></div><h1>A little room for your feelings.</h1><p>Explore the English journaling prototype. No account or password is needed.</p><p className="muted">Sample entries are fictional. New entries stay in this browser. Analysis uses English keyword rules; no live LLM or counselor is connected.</p><button className="btn" onClick={async()=>{await login('','');navigate('/app')}}>Explore the demo ↗</button></section></div>}
